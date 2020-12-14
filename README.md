@@ -1,2 +1,2 @@
 # NewU-RP
-Public NewU Repository for issue-tracking
+Bugtracker für NewU-RP.
